@@ -4,6 +4,12 @@ SimplyInlineSVG is a super simple gem to help you inline SVG icons. Seriously, i
 
 ## Installation
 
+Install `libxml2-dev` on your server
+
+```
+sudo apt-get install libxml2-dev
+```
+
 Add this line to your application's Gemfile:
 
 ```ruby
